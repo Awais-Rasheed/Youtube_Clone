@@ -10,7 +10,7 @@ namespace Youtube
 {
     public partial class Form1 : Form
     {
-        private const string apiKey = "AIzaSyD956TgDYNIPgC2qVLx2YUvnBjmcEDE3Uk";
+        private const string apiKey = "YOUR_API_KEY"; //get your from googledeveloper.com
         public Form1()
         {
             InitializeComponent();
